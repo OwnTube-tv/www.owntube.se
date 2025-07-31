@@ -3,7 +3,7 @@
 Denna mapp innehåller logotyper för OwnTube Nordic AB, designade av @mkl-adsn.
 
 ## Design
-- Använder OwnTubes orangea färg
+- Använder OwnTubes orange färg
 - Ikonen liknar en strömbrytare
 - Innehåller initialerna "O" och "N" från OwnTube Nordic
 - Designad för både kvadratiska (avatar) och rektangulära format
