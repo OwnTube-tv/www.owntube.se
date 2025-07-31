@@ -19,7 +19,7 @@ This is a basic static website repository with no build process, dependencies, o
 - **README.md**: Swedish-language company information and service offerings
 - **CNAME**: GitHub Pages custom domain configuration pointing to www.owntube.se
 - **LICENSE**: Public domain license (Unlicense)
-- **assets/logos/**: Company brand assets including SVG and PNG logos in various formats (square icons, rectangular logos, color variants)
+- **assets/logos/**: Company brand assets including SVG logos in various formats (square icons, rectangular logos, color variants)
 
 ## Development
 
