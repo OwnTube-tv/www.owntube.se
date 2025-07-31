@@ -14,15 +14,15 @@ Se `owntube-nordic-overview.png` för en översikt över logotyperna mot olika b
 
 ### Kvadratisk ikon
 
-- `owntube-nordic-icon-bt.svg` - Svart ikon mot transparent bakgrund, SVG-format
-- `owntube-nordic-icon-ot.svg` - Orange ikon mot transparent bakgrund, SVG-format
-- `owntube-nordic-icon-wt.svg` - Vit ikon mot transparent bakgrund, SVG-format
+- `owntube-nordic-icon-bt.svg` - Svart ikon mot transparent bakgrund, SVG-format (även exporterad som PNG)
+- `owntube-nordic-icon-ot.svg` - Orange ikon mot transparent bakgrund, SVG-format (även exporterad som PNG)
+- `owntube-nordic-icon-wt.svg` - Vit ikon mot transparent bakgrund, SVG-format (även exporterad som PNG)
 
 ### Rektangulär logotyp
 
-- `owntube-nordic-logo-wt.svg` - Vit logotyp mot transparent bakgrund, SVG-format
-- `owntube-nordic-logo-bt.svg` - Svart logotyp mot transparent bakgrund, SVG-format
-- `owntube-nordic-logo-ot.svg` - Orange logotyp mot transparent bakgrund, SVG-format
+- `owntube-nordic-logo-wt.svg` - Vit logotyp mot transparent bakgrund, SVG-format (även exporterad som PNG)
+- `owntube-nordic-logo-bt.svg` - Svart logotyp mot transparent bakgrund, SVG-format (även exporterad som PNG)
+- `owntube-nordic-logo-ot.svg` - Orange logotyp mot transparent bakgrund, SVG-format (även exporterad som PNG)
 
 ## Källa
 
