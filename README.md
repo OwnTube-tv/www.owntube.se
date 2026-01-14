@@ -1,8 +1,3 @@
----
-layout: default
-title: OwnTube Nordic AB
----
-
 # OwnTube Nordic AB
 
 Välkommen till OwnTube Nordic AB!
